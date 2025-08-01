@@ -37,7 +37,7 @@ With a strong background in **Artificial Intelligence and Data Analysis**, I des
 🔹 [**Project A – Predictive Analytics for Finance**](https://github.com/deinprofil/projekt-a)  
 > ML model forecasting market trends with high accuracy.
 
-🔹 [**Project B – AI-driven Image Recognition**](https://github.com/deinprofil/projekt-b)  
+🔹 [**Project B – AI-driven Image Recognition**](https://github.com/TomyThanh/-Cats-vs-Dogs-Image-Classifier)  
 > Deep learning model for object detection with >95% accuracy.
 
 🔹 [**Project C – Property Price Analyzer**](https://github.com/deinprofil/projekt-c)  
