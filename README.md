@@ -7,7 +7,7 @@ With a strong background in **Artificial Intelligence and Data Analysis**, I des
 ---
 
 ## 🔥 About Me
-- 🎓 Degree in **AI & Data Analysis** with hands-on experience  
+- 🎓 Studies in **AI & Data Analysis** with hands-on experience  
 - 📊 Skilled in **ML, DL, Data Engineering & Predictive Analytics**  
 - 🛠️ Tech enthusiast: Python, SQL, TensorFlow, PyTorch & more  
 - 🌍 Passionate about bridging theory and real-world impact  
