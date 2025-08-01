@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Tomy Vo
 
 💡 **Data Scientist | AI Enthusiast | Problem Solver**  
-With a strong background in **Artificial Intelligence and Data Analysis**, I design and build **data-driven solutions** that create real impact.  
-I love transforming raw data into meaningful insights and deploying intelligent models that solve real-world problems.  
+I believe in the power of AI to transform industries and improve lives.  
+With a strong background in **Artificial Intelligence and Data Analysis**, I design and build **data-driven solutions** that create real impact.
 
 ---
 
 ## 🔥 About Me
-- 🎓 Academic background in **Artificial Intelligence & Data Analysis**  
-- 📊 Expertise in **Machine Learning, Deep Learning, Data Engineering, Predictive Analytics**  
-- 🛠️ Tools I love: Python, SQL, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Docker  
-- 🌍 Passionate about bridging the gap between **theory and practice**  
-- 🚀 Goal: Deliver **innovation through AI and data-driven technologies**  
+- 🎓 Degree in **AI & Data Analysis** with hands-on experience  
+- 📊 Skilled in **ML, DL, Data Engineering & Predictive Analytics**  
+- 🛠️ Tech enthusiast: Python, SQL, TensorFlow, PyTorch & more  
+- 🌍 Passionate about bridging theory and real-world impact  
+- 🚀 Committed to delivering innovative, data-driven solutions  
 
 ---
 
@@ -30,36 +30,34 @@ I love transforming raw data into meaningful insights and deploying intelligent 
 ![Tableau](https://img.shields.io/badge/Tableau-FA3E2A?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-
-
 ---
 
 ## 📂 Featured Projects
 
-🔹 [**Project A – Predictive Analytics for Finance**](#)  
-> Built a machine learning model to forecast market trends with high accuracy.  
+🔹 [**Project A – Predictive Analytics for Finance**](https://github.com/deinprofil/projekt-a)  
+> ML model forecasting market trends with high accuracy.
 
-🔹 [**Project B – AI-driven Image Recognition**](#)  
-> Developed a deep learning model for object detection with >95% accuracy.  
+🔹 [**Project B – AI-driven Image Recognition**](https://github.com/deinprofil/projekt-b)  
+> Deep learning model for object detection with >95% accuracy.
 
-🔹 [**Project C – Property Price Analyzer**](#)  
-> Implemented transformer-based models for advanced text / value classification.  
+🔹 [**Project C – Property Price Analyzer**](https://github.com/deinprofil/projekt-c)  
+> Transformer-based models for advanced text and value classification.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomyVo&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomyVo&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tomy-vo-036753359/details/skills)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://yourwebsite.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomy.vo0000@gmail.com)  
 
 ---
 
-✨ *“Turning data into knowledge, and knowledge into action.”*  
+<p align="center">✨ <em>“Turning data into knowledge, and knowledge into action.”</em> ✨</p>
